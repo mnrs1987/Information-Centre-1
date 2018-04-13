@@ -54,6 +54,7 @@
 		    </includes>
 		    </configuration>
 	      </plugin>
+	     <plugin>                <groupId>io.fabric8</groupId>                <artifactId>docker-maven-plugin</artifactId>                <version>0.20.0</version>
       </plugins>
   </build>
 </project>
