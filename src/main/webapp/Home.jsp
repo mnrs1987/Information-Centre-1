@@ -9,7 +9,7 @@ body {background-color:#FFB6C1}
 </head> 
 <body> 
 <center>
-<h1>Continuous Integration And Continuous Delivery</h1>
+<h1>Continuous Integration And Continuous Delivery portal</h1>
 </center>
 <h2 id="name">Hello <% String a=session.getAttribute("username").toString(); out.println(a); %>,
 </h2>
