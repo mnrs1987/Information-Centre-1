@@ -12,10 +12,10 @@
   </properties>
   <modelVersion>4.0.0</modelVersion>
   <groupId>CDRM-DevOps</groupId>
-  <artifactId>InformationCentre</artifactId>
+  <artifactId>InformationCentreforkubernetes-nameal</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>InformationCentre</name>
+  <name>InformationCentreforkubernetes-nameal</name>
   <url>http://maven.apache.org</url> 
   <dependencies>
     <dependency>
