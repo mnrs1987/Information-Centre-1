@@ -11,13 +11,8 @@
   </mirrors>
    <proxies></proxies>
 <servers>
-    <server>
-      <id>nexus-releases</id>
-      <username>admin</username>
-      <password>admin123</password>
-    </server>
     <server>      
-        <id>nexus-snapshots</id>      
+        <id>nexus</id>      
         <username>admin</username>      
         <password>admin123</password>    
     </server>
