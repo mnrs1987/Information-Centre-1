@@ -14,7 +14,7 @@
   <groupId>CDRM-DevOps</groupId>
   <artifactId>InformationCentreforkubernetes-nameal</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOTS</version>
   <name>InformationCentreforkubernetes-nameal</name>
   <url>http://maven.apache.org</url> 
   <dependencies>
