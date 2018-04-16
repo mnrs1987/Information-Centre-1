@@ -12,9 +12,14 @@
    <proxies></proxies>
 <servers>
     <server>
-      <id>nexus</id>
+      <id>nexus-releases</id>
       <username>admin</username>
       <password>admin123</password>
+    </server>
+    <server>      
+        <id>nexus-snapshots</id>      
+        <username>admin</username>      
+        <password>admin123</password>    
     </server>
   </servers>
   <pluginGroups>
