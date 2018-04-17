@@ -11,7 +11,7 @@
         <docker.image.name>kubernetes_project</docker.image.name>
   </properties>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>CDRM-DevOps</groupId>
+  <groupId>NAMEAL-POC2</groupId>
   <artifactId>InformationCentreforkubernetes-nameal</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
