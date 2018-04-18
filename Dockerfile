@@ -5,4 +5,4 @@ RUN apt-get update && apt-get install -y default-jdk
 COPY . /usr/local/tomcat/webapps/
 WORKDIR /usr/local/tomcat/webapps/
 RUN jar -cvf InformationCentre.war *
-RUN cp target/InformationCentre.war $CATALINA_BASE/webapps/InformationCentre.war
+RUN cp InformationCentre.war $CATALINA_BASE/webapps/InformationCentre.war
