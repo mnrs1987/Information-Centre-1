@@ -37,5 +37,4 @@ else
         sudo docker run --rm -d -p 8080:8080 mnnsdocker/kuberketespocimage:latest
         echo "Tomcat docker image was started in container and InformationCentre application is up and running in port no :8080.."
         echo "Application URL : http://52.26.128.26:8080/InformationCentre"
-
 fi
