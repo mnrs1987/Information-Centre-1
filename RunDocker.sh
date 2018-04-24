@@ -1,5 +1,3 @@
-#! /usr/bin/env
-
 # finding running container id
 conid=`sudo docker ps -aq --filter "status=running"`
 if [ "$conid" ]; then
