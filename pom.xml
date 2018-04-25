@@ -34,6 +34,11 @@
     <version>2.5</version>
     <scope>provided</scope>
 </dependency>
+	  <dependency>
+    <groupId>org.codehaus.sonar</groupId>
+    <artifactId>sonar-maven-plugin</artifactId>
+    <version>5.1</version>
+</dependency>
   </dependencies>
   <build>
     <finalName>InformationCentre</finalName>
