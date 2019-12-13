@@ -6,11 +6,11 @@
 	<maven.compiler.target>1.6</maven.compiler.target>
   </properties>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>NAMEAL-POC2</groupId>
-  <artifactId>InformationCentreforkubernetes-nameal</artifactId>
+  <groupId>APPLE-POC</groupId>
+  <artifactId>InformationCentreforkubernetes-apple</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>InformationCentreforkubernetes-nameal</name>
+  <name>InformationCentreforkubernetes-apple</name>
   <url>http://maven.apache.org</url> 
   <dependencies>
     <dependency>
