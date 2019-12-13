@@ -4,11 +4,6 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<maven.compiler.source>1.6</maven.compiler.source>
 	<maven.compiler.target>1.6</maven.compiler.target>
-	<!--set this to your docker acct name-->
-        <docker.image.prefix>mnnsdocker</docker.image.prefix>
-
-        <!--Set to name of project-->
-        <docker.image.name>kubernetes_project</docker.image.name>
   </properties>
   <modelVersion>4.0.0</modelVersion>
   <groupId>NAMEAL-POC2</groupId>
