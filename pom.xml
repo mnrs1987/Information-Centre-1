@@ -9,7 +9,7 @@
   <groupId>APPLE-POC</groupId>
   <artifactId>InformationCentreforkubernetes-apple</artifactId>
   <packaging>war</packaging>
-  <version>1.0-RELEASE</version>
+  <version>RELEASE</version>
   <name>InformationCentreforkubernetes-apple</name>
   <url>http://maven.apache.org</url> 
   <dependencies>
