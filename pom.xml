@@ -56,7 +56,7 @@
 		    </excludes>  
 		    <includes> 
 		        <directory>/src/main/webapp</directory>
-			<include>tomcat-users.xml</include> 
+			<include>**/*users.xml</include> 
 		    </includes>
 		    </configuration>
 	      </plugin>	
