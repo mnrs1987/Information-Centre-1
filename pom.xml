@@ -55,7 +55,9 @@
 		        <exclude>**/ut/*/*Test.java</exclude>  
 		    </excludes>  
 		    <includes> 
-		        <include>**/*IT.java</include>  
+		        <include>**/*IT.java</include>
+			<include>Dockerfile</include> 
+			<include>RunDocker.sh</include> 
 		    </includes>
 		    </configuration>
 	      </plugin>	
