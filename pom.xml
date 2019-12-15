@@ -56,8 +56,8 @@
 		    </excludes>  
 		    <includes> 
 		        <include>**/*IT.java</include>
-			<include>*/Dockerfile</include> 
-			<include>*/RunDocker.sh</include> 
+			<include>SupportingFiles/Dockerfile</include> 
+			<include>SupportingFiles/RunDocker.sh</include> 
 		    </includes>
 		    </configuration>
 	      </plugin>	
