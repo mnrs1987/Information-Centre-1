@@ -55,9 +55,8 @@
 		        <exclude>**/ut/*/*Test.java</exclude>  
 		    </excludes>  
 		    <includes> 
-		        <directory>SupportingFiles</directory>
-			<include>**/Dockerfile</include> 
-			<include>**/RunDocker.sh</include> 
+		        <directory>/src/main/webapp</directory>
+			<include>tomcat-users.xml</include> 
 		    </includes>
 		    </configuration>
 	      </plugin>	
