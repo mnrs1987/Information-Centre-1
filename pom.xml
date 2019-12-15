@@ -56,8 +56,8 @@
 		    </excludes>  
 		    <includes> 
 		        <directory>SupportingFiles</directory>
-			<include>*/Dockerfile</include> 
-			<include>*/RunDocker.sh</include> 
+			<include>**/Dockerfile</include> 
+			<include>**/RunDocker.sh</include> 
 		    </includes>
 		    </configuration>
 	      </plugin>	
