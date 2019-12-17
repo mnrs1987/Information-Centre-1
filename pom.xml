@@ -71,11 +71,11 @@
     <distributionManagement>
     <snapshotRepository>
          <id>nexus</id>
-         <url>http://35.226.113.43:8081/repository/apple_nexus_poc/</url>
+         <url>http://35.202.51.116:8081/repository/apple_nexus_poc/</url>
     </snapshotRepository>
                <repository>
          <id>nexus</id>
-         <url>http://35.226.113.43:8081/repository/apple_nexus_poc/</url>
+         <url>http://35.202.51.116:8081/repository/apple_nexus_poc/</url>
                </repository>
   </distributionManagement>
 </project>
